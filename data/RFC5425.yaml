@@ -57,7 +57,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         formatted_initials:
           content: Y.
           language:
@@ -126,7 +126,7 @@ abstract:
 - content: "<p>This document describes the use of Transport Layer Security (TLS) to
     provide a secure connection for the transport of syslog messages. This document
     describes the security threats to syslog and how TLS can be used to counter such
-    threats. [STANDARDS-TRACK]</p>"
+    threats.</p>"
   language:
   - en
   script:
@@ -147,5 +147,5 @@ keyword:
 editorialgroup:
 - name: syslog
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

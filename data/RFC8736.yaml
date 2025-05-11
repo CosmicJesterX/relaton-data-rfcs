@@ -110,6 +110,16 @@ abstract:
   - Latn
   format: text/html
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9436
+    docid:
+    - id: RFC9436
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9436
+      format: text/plain
 - type: updates
   bibitem:
     id: RFC3973
@@ -184,5 +194,5 @@ keyword:
 editorialgroup:
 - name: pim
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

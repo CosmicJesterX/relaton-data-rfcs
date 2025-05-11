@@ -75,6 +75,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9592
+    docid:
+    - id: RFC9592
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9592
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -85,5 +96,5 @@ series:
     content: IETF
     format: text/plain
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

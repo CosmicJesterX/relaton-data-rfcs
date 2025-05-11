@@ -104,6 +104,16 @@ abstract:
   - Latn
   format: text/html
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9598
+    docid:
+    - id: RFC9598
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9598
+      format: text/plain
 - type: updates
   bibitem:
     id: RFC5280
@@ -130,5 +140,5 @@ keyword:
 editorialgroup:
 - name: lamps
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

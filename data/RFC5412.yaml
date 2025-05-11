@@ -86,7 +86,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
         formatted_initials:
           content: N.
           language:
@@ -272,5 +272,5 @@ keyword:
 - content: lwapp
 - content: capwap
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: INDEPENDENT

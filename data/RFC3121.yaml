@@ -57,7 +57,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
         formatted_initials:
           content: N.
           language:
@@ -120,5 +120,5 @@ keyword:
 - content: name
 - content: organization for the advancement of structured information standards
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: Legacy

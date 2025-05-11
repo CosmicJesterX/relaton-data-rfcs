@@ -123,7 +123,6 @@ series:
     content: IETF
     format: text/plain
 keyword:
-- content: IPSEC
 - content: ipsec
 - content: authentication
 - content: encapsulation
@@ -148,5 +147,5 @@ keyword:
 editorialgroup:
 - name: ipsec
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

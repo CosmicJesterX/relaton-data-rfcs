@@ -196,6 +196,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9492
+    docid:
+    - id: RFC9492
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9492
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -208,5 +219,5 @@ series:
 editorialgroup:
 - name: lsr
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

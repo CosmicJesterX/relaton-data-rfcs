@@ -80,12 +80,12 @@ series:
   number: '2324'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: controlling
 - content: monitoring
 - content: diagnosing
 ext:
-  schema-version: v1.0.0
-  stream: Legacy
+  schema-version: v1.0.1
+  stream: INDEPENDENT

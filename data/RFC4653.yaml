@@ -67,7 +67,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
         formatted_initials:
           content: A. L. N.
           language:
@@ -194,5 +194,5 @@ keyword:
 editorialgroup:
 - name: tcpm
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

@@ -162,6 +162,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9718
+    docid:
+    - id: RFC9718
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9718
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -177,5 +188,5 @@ keyword:
 - content: IANA
 - content: KSK
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: INDEPENDENT

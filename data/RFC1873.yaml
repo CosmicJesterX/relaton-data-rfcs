@@ -49,6 +49,35 @@ contributor:
         - Latn
   role:
   - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Clark
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Clark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -93,5 +122,5 @@ keyword:
 editorialgroup:
 - name: mimesgml
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

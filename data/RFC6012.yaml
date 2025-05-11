@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document describes the transport of syslog messages over the Datagram
     Transport Layer Security (DTLS) protocol. It provides a secure transport for syslog
-    messages in cases where a connectionless transport is desired. [STANDARDS-TRACK]</p>"
+    messages in cases where a connectionless transport is desired.</p>"
   language:
   - en
   script:
@@ -174,5 +174,5 @@ keyword:
 editorialgroup:
 - name: syslog
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

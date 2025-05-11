@@ -82,7 +82,7 @@ series:
   number: '3026'
 - type: stream
   title:
-    content: Legacy
+    content: IETF
     format: text/plain
 keyword:
 - content: dns
@@ -96,5 +96,5 @@ keyword:
 - content: E.164
 - content: number
 ext:
-  schema-version: v1.0.0
-  stream: Legacy
+  schema-version: v1.0.1
+  stream: IETF

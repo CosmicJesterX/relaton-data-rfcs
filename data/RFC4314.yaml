@@ -88,9 +88,9 @@ keyword:
 - content: IMAP4-ACL
 - content: Control
 - content: List
-- content: interet message access protocol
+- content: internet message access protocol
 editorialgroup:
 - name: imapext
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

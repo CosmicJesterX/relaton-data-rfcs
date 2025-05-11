@@ -28,7 +28,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
         formatted_initials:
           content: N.
           language:
@@ -109,7 +109,7 @@ series:
   number: '1437'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: life form
@@ -117,5 +117,5 @@ keyword:
 - content: transport
 - content: Sentient
 ext:
-  schema-version: v1.0.0
-  stream: Legacy
+  schema-version: v1.0.1
+  stream: INDEPENDENT

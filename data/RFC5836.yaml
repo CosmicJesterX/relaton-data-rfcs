@@ -28,7 +28,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         formatted_initials:
           content: Y.
           language:
@@ -147,5 +147,5 @@ keyword:
 editorialgroup:
 - name: hokey
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

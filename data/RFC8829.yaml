@@ -132,6 +132,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9429
+    docid:
+    - id: RFC9429
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9429
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -155,5 +166,5 @@ keyword:
 editorialgroup:
 - name: rtcweb
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

@@ -76,6 +76,16 @@ abstract:
   - Latn
   format: text/html
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9654
+    docid:
+    - id: RFC9654
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9654
+      format: text/plain
 - type: updates
   bibitem:
     id: RFC6960
@@ -101,5 +111,5 @@ keyword:
 editorialgroup:
 - name: lamps
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

@@ -86,7 +86,7 @@ series:
     format: text/plain
 keyword:
 - content: LDAPV3
-- content: LDAv3
+- content: LDAV3
 - content: x.500
 - content: LDAP3-ATD
 - content: syntax
@@ -101,5 +101,5 @@ keyword:
 editorialgroup:
 - name: ldapbis
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

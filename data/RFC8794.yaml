@@ -150,8 +150,9 @@ keyword:
 - content: xml
 - content: matroska
 - content: webm
+- content: ebml
 editorialgroup:
 - name: cellar
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

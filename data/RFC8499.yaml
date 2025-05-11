@@ -135,6 +135,16 @@ abstract:
   - Latn
   format: text/html
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9499
+    docid:
+    - id: RFC9499
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9499
+      format: text/plain
 - type: updates
   bibitem:
     id: RFC2308
@@ -146,10 +156,6 @@ relation:
       content: RFC2308
       format: text/plain
 series:
-- title:
-    content: BCP
-    format: text/plain
-  number: '219'
 - title:
     content: RFC
     format: text/plain
@@ -164,5 +170,5 @@ keyword:
 editorialgroup:
 - name: dnsop
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

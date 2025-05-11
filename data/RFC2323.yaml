@@ -82,7 +82,7 @@ series:
   number: '2323'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: facial
@@ -90,5 +90,5 @@ keyword:
 - content: extremis
 - content: FHE
 ext:
-  schema-version: v1.0.0
-  stream: Legacy
+  schema-version: v1.0.1
+  stream: INDEPENDENT

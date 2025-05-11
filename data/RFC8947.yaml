@@ -86,9 +86,9 @@ contributor:
           - en
           script:
           - Latn
-          initial: C
+          initial: CJ
         formatted_initials:
-          content: C.
+          content: CJ.
           language:
           - en
           script:
@@ -100,7 +100,7 @@ contributor:
         script:
         - Latn
       completename:
-        content: C. Bernardos
+        content: CJ. Bernardos
         language:
         - en
         script:
@@ -148,5 +148,5 @@ series:
 editorialgroup:
 - name: dhc
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

@@ -29,7 +29,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         formatted_initials:
           content: Y.
           language:
@@ -91,5 +91,5 @@ keyword:
 - content: Standard
 - content: Organizatio
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: Legacy

@@ -161,6 +161,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9632
+    docid:
+    - id: RFC9632
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9632
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -173,5 +184,5 @@ series:
 editorialgroup:
 - name: opsawg
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

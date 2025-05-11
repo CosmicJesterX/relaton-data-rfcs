@@ -117,19 +117,19 @@ keyword:
 - content: Client
 - content: Resource Owner
 - content: Authorization Server
-- content: Resource Server,Â Token Endpoint
+- content: Resource Server, Token Endpoint
 - content: Authorization Endpoint
-- content: Authorization Request,Â Authorization Grant
+- content: Authorization Request, Authorization Grant
 - content: Protected Resource
 - content: Access Token
-- content: RefreshÂ Token
+- content: Refresh Token
 - content: Authorization Code
 - content: Implicit Grant
-- content: Client Identifier,Â Access Token Scope
+- content: Client Identifier, Access Token Scope
 - content: Bearer Authorization Header
-- content: Bearer AccessÂ Token Type
+- content: Bearer Access Token Type
 editorialgroup:
 - name: oauth
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

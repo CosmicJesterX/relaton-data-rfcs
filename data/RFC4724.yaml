@@ -144,7 +144,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         formatted_initials:
           content: Y.
           language:
@@ -197,6 +197,17 @@ abstract:
   script:
   - Latn
   format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4271
+    docid:
+    - id: RFC4271
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4271
+      format: text/plain
 series:
 - title:
     content: RFC
@@ -213,5 +224,5 @@ keyword:
 editorialgroup:
 - name: idr
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

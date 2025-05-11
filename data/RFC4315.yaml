@@ -85,12 +85,9 @@ series:
     format: text/plain
 keyword:
 - content: IMAP4UIDPL
-- content: internet
-- content: message
-- content: access
-- content: protocol
+- content: internet message access protocol
 - content: disconnected
 - content: operation
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

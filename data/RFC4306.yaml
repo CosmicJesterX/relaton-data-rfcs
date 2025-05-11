@@ -109,7 +109,6 @@ keyword:
 - content: association
 - content: key
 - content: management
-- content: ipsec
 - content: cryptography
 - content: authentication
 - content: IKE
@@ -118,5 +117,5 @@ keyword:
 editorialgroup:
 - name: ipsec
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF

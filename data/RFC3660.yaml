@@ -124,7 +124,7 @@ series:
   number: '3660'
 - type: stream
   title:
-    content: Legacy
+    content: IETF
     format: text/plain
 keyword:
 - content: generic
@@ -134,5 +134,5 @@ keyword:
 - content: dtmf
 - content: dual tone multifrequency
 ext:
-  schema-version: v1.0.0
-  stream: Legacy
+  schema-version: v1.0.1
+  stream: IETF

@@ -159,7 +159,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         formatted_initials:
           content: J.Y.
           language:
@@ -341,5 +341,5 @@ keyword:
 editorialgroup:
 - name: diffserv
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
   stream: IETF
